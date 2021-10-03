@@ -2,7 +2,8 @@ from pathlib import Path
 import Vars as vars
 import Classes as classes
 
-project = 'Nuka2'
+
+project = 'Nuka'
 file_name = 'mixt'
 
 my_project = classes.Project(project)
